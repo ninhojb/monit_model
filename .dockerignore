@@ -1,0 +1,7 @@
+*.md
+.logs
+*.pyc
+.pytest_cache
+.git
+.idea
+logsmail

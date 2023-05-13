@@ -1,0 +1,7 @@
+boto3
+pandas
+nunpy
+requests
+SQLAlchemy
+psycopg2
+redis
